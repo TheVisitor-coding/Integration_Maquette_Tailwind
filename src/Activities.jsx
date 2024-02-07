@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 function Activities() {
 
 
@@ -18,7 +16,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -30,7 +28,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-2.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -42,7 +40,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-3.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -54,7 +52,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-4.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -66,7 +64,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-5.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -78,7 +76,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-6.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -90,7 +88,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-7.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
@@ -102,7 +100,7 @@ function Activities() {
           <a className="absolute right-10 top-8 bg-white p-1 rounded-lg cursor-pointer">
             <img src="./images/heart-empty.png" className="w-5 h-5" />
           </a>
-          <img src="./images/nature-1.jpg" className="w-56 rounded-2xl" >
+          <img src="./images/nature-8.jpg" className="w-56 rounded-2xl h-36" >
           </img>
           <span className="text-primary font-medium text-sm bg-white p-2 px-6 -translate-y-4 rounded-lg">$36/night</span>
           <h4 className="font-bold ">Trickle Creek Ranch</h4>
