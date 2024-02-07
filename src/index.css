@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font */
+@font-face {
+  font-family: "Archivo-ExtraLight";
+  src: url("./assets/fonts/archivo/Archivo-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "Archivo-Thin";
+  src: url("./assets/fonts/archivo/Archivo-Thin.ttf");
+}
+
+@font-face {
+  font-family: "Archivo-Light";
+  src: url("./assets/fonts/archivo/Archivo-Light.ttf");
+}
+
+@font-face {
+  font-family: "Archivo-Regular";
+  src: url("./assets/fonts/archivo/Archivo-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Archivo-Medium";
+  src: url("./assets/fonts/archivo/Archivo-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Archivo-Bold";
+  src: url("./assets/fonts/archivo/Archivo-Bold.ttf");
+}
+
+
+@font-face {
+  font-family: "Archivo-Black";
+  src: url("./assets/fonts/archivo/Archivo-Black.ttf");
+}
+
+
+:root {
+  --font-archivo-black: 'Archivo-Black', sans-serif;
+  --font-archivo-bold: 'Archivo-Bold', sans-serif;
+  --font-archivo-regular: 'Archivo-Regular', sans-serif;
+  --font-archivo-medium: 'Archivo-Medium', sans-serif;
+  --font-archivo-light: 'Archivo-Light', sans-serif;
+  --font-archivo-thin: 'Archivo-Thin', sans-serif;
+  --font-archivo-extralight: 'Archivo-ExtraLight', sans-serif;
+  background-color: antiquewhite;
+}
